@@ -5,7 +5,7 @@ Dhara is a modern streaming application built with **Electron**, **HLS.js**, and
 **Disclaimer**: Dhara is merely a wrapper and a fun project. It does not host any content itself and is not intended to harm or infringe on any copyrights. All channel links and data are sourced from third-party repositories, and Dhara acts as a front-end interface for streaming.
 
 
-[![dhara-1z-OUg-Nv-R0p.png](https://i.postimg.cc/bNPXNX83/dhara-1z-OUg-Nv-R0p.png)](https://postimg.cc/3Wtfnckv)
+[![dhara-1z-OUg-Nv-R0p.png](https://i.postimg.cc/bNPXNX83/dhara-1z-OUg-Nv-R0p.png)]
 
 ---
 
